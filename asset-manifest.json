@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/will_h_react_portfolio/static/css/main.d6a24443.chunk.css",
+    "main.js": "/will_h_react_portfolio/static/js/main.b079b379.chunk.js",
+    "main.js.map": "/will_h_react_portfolio/static/js/main.b079b379.chunk.js.map",
+    "runtime-main.js": "/will_h_react_portfolio/static/js/runtime-main.81993dbd.js",
+    "runtime-main.js.map": "/will_h_react_portfolio/static/js/runtime-main.81993dbd.js.map",
+    "static/css/2.150d169a.chunk.css": "/will_h_react_portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.ead776fa.chunk.js": "/will_h_react_portfolio/static/js/2.ead776fa.chunk.js",
+    "static/js/2.ead776fa.chunk.js.map": "/will_h_react_portfolio/static/js/2.ead776fa.chunk.js.map",
+    "static/js/3.37a63bb8.chunk.js": "/will_h_react_portfolio/static/js/3.37a63bb8.chunk.js",
+    "static/js/3.37a63bb8.chunk.js.map": "/will_h_react_portfolio/static/js/3.37a63bb8.chunk.js.map",
+    "index.html": "/will_h_react_portfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/will_h_react_portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.d6a24443.chunk.css.map": "/will_h_react_portfolio/static/css/main.d6a24443.chunk.css.map",
+    "static/js/2.ead776fa.chunk.js.LICENSE.txt": "/will_h_react_portfolio/static/js/2.ead776fa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/will_h_react_portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81993dbd.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.ead776fa.chunk.js",
+    "static/css/main.d6a24443.chunk.css",
+    "static/js/main.b079b379.chunk.js"
+  ]
+}
