@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 }
+
+/* CSS from old portfolio */
+img.card-img-top {
+  float: left;
+  margin-right: 16px;
+  width: 350px;
+}
+
+div.container-fluid {
+  /* width: 75%; */
+  border-bottom: 10px solid;
+}
+
+div.container-fluid.float-left.border-info {
+  height: calc(100% - 112px);
+}
+
+body {
+  background-image: url('https://chiprewards.com/wp-content/uploads/2017/12/Light-Gray-background.png');
+  /* border-bottom: 10px solid; */
+  /* height: 100%; */
+}
+div.row {
+  width: 100%;
+  padding-left: 15px;
+}
+
+.portfolio-img {
+  padding: 0px 15px 15px 15px;
+  width: 300px;
+  height: 300px;
+}
+
+.project-img {
+  width: 683px;
+  height: 415px;
+  padding-bottom: 0px;
+}
+
+
+div.card {
+  height: 100%;
+  overflow: auto;
+}
+
+img#reserve-a-room-img {
+  height: 520px;
+  width: 700px;
+}
+
+
+@media only screen and (max-width: 500px) {
+  html#index-html.h-100 {
+      height: auto!important;
+  }
+}
