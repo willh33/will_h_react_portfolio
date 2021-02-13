@@ -3,25 +3,25 @@ import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import AboutMe from './AboutMe';
 import Contact from './Contact';
 import Portfolio from './Portfolio';
-import Container from './Container';
+import Project from './Project';
 
 const Routes = () =>
 	<Router>
         <Switch>
             <Route exact path='/'>
-				<Container>
+				<Project>
                 	<AboutMe />
-				</Container>
+				</Project>
             </Route>
             <Route path='/contact'>
-				<Container>
+				<Project>
                 	<Contact />
-				</Container>
+				</Project>
             </Route>
             <Route path='/portfolio'>
-				<Container>
+				<Project>
                 	<Portfolio />
-				</Container>
+				</Project>
             </Route>
         </Switch>
     </Router>

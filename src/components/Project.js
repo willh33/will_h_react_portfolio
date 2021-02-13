@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Container = (props) => 
+const Project = (props) => 
 	<div className="container-fluid float-left border-info">
 		<div className="row  mt-5">
             <div className="col-lg-9 col-md-9 mt-3 mb-5">
@@ -9,4 +9,4 @@ const Container = (props) =>
 		</div>
 	</div>
 
-export default Container;
+export default Project;
