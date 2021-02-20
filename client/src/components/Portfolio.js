@@ -59,6 +59,16 @@ function Portfolio(props) {
 					</div>
 				</div>
 				<div className="row">
+					<div className="col-lg-12">
+						<h4 className="text-info">Google Books</h4>
+						<img src="./Assets/Images/google-books.png" id="google-books-img" className="project-img portfolio-img" alt="..." />
+						<div className="pb-3">
+							<a href="https://github.com/willh33/google_book_search_will_h" className="project-img portfolio-img">Github Repo</a>
+							<a href="https://react-google-books-wh.herokuapp.com/" className="project-img portfolio-img">Deployed Application</a>
+						</div>
+					</div>
+				</div>
+				<div className="row">
 					<div className="col-lg-6">
 							<img src="./Assets/Images/grand-america.jpg" className="portfolio-img" alt="..."/>
 					</div>
